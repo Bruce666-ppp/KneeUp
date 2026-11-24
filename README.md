@@ -1,4 +1,4 @@
-## [**🚀 Launch KneeUp Interactive Website**](https://bruce666-ppp.github.io/IDAT7212/)
+## [**🚀 Launch KneeUp Interactive Website**](https://bruce666-ppp.github.io/KneeUp/)
 
 # KneeUp — English Showcase
 
@@ -31,7 +31,7 @@ Destination: [Bruce666-ppp/IDAT7212](https://github.com/Bruce666-ppp/IDAT7212).
 3. Choose **main** and **/ (root)**, then Save.
 4. Wait for the deployment and open the URL GitHub displays.
 
-After successful deployment, this repository's URL is `https://bruce666-ppp.github.io/IDAT7212/`. Relative resource paths also support `/kneeup-english/` if the repository is renamed. The displayed address resolves the current deployment folder; QR images for both repository names are included.
+After successful deployment, this repository's URL is `https://bruce666-ppp.github.io/KneeUp/`. Relative resource paths also support `/kneeup-english/` if the repository is renamed. The displayed address resolves the current deployment folder; QR images for both repository names are included.
 
 For browser uploads, unzip the archive first. Uploading the ZIP itself does not publish its contents. GitHub's uploader accepts up to 100 files per batch and 25 MiB per file; preserve the folder tree when batching. See the official [upload guide](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) and [Pages source guide](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
